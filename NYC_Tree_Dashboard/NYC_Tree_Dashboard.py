@@ -46,6 +46,7 @@ _label = {'fontSize': '12px', 'fontWeight': 'bold', 'color': TEXT,
           'textTransform': 'uppercase', 'letterSpacing': '0.05em'}
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div(
     style={'backgroundColor': BG, 'fontFamily': 'Segoe UI, sans-serif', 'padding': '2%'},
