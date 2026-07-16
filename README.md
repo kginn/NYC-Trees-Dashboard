@@ -5,8 +5,6 @@
 ## Overview
 This interactive dashboard provides a comprehensive analysis of New York City's urban forest. It allows users to explore how community stewardship, geographic location, and species type impact the overall health and distribution of trees across the boroughs. 
 
-Built with **Python**, **Dash**, and **Plotly**, this application filters and visualizes spatial data to deliver immediate insights.
-
 ## Tools Used
 * **Language:** Python
 * **Framework:** Dash (Plotly)
